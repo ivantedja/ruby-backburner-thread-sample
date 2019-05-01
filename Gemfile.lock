@@ -1,0 +1,18 @@
+GEM
+  specs:
+    backburner (1.5.0)
+      beaneater (~> 1.0)
+      concurrent-ruby (~> 1.0, >= 1.0.1)
+      dante (> 0.1.5)
+    beaneater (1.0.0)
+    concurrent-ruby (1.0.5)
+    dante (0.2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  backburner
+
+BUNDLED WITH
+   1.17.3
